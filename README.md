@@ -1,2 +1,2 @@
 # Othello-Player
-An Othello player you can't beat
+A C++ Othello game with a bot you can't beat
